@@ -1,0 +1,11 @@
+# Sistema
+.DS_Store
+
+# Herramientas de desarrollo / pruebas
+.playwright-mcp/
+__pycache__/
+*.pyc
+
+# Editores
+.vscode/
+.idea/

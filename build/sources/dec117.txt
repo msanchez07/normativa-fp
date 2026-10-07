@@ -1,0 +1,1915 @@
+Núm. 10172 / 13.08.2025 1 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+I. DISPOSICIONES GENERALES
+ 
+Conselleria de Educación, Cultura, Universidades y Empleo
+DECRETO 117/2025, de 5 de agosto, del Consell, por el que establecen los currículos de los ciclos formativos de Grado
+Básico de Formación Profesional, en aplicación de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración
+de la Formación Profesional. 
+ 
+Índice
+Preámbulo
+Artículo 1. Objeto
+Artículo 2. Ámbito de aplicación
+Artículo 3. Currículo
+Artículo 4. Estructura de los ciclos formativos. Ámbitos y módulos profesionales
+Artículo 5. Proyecto intermodular de aprendizaje colaborativo
+Artículo 6. Docencia en inglés y las dos lenguas cooficiales
+Artículo 7. Formación en empresa u organismo equiparado
+Artículo 8. Proyecto curricular de ciclo formativo
+Artículo 9. Programación didáctica de módulo profesional
+Artículo 10. Autonomía de los centros. Tutoría y orientación profesional
+Artículo 11. Profesorado
+Artículo 12. Espacios y equipamiento
+Disposiciones adicionales
+Primera. Incidencia en las dotaciones de gasto
+Segunda. Certificados profesionales
+Disposiciones transitorias
+Primera. Transición entre planes de estudio
+Segunda. Títulos en extinción
+Disposición derogatoria
+Primera. Derogación de títulos LOE y otras normas
+Disposiciones finales
+Primera. Modificación de la Orden 73/2014, de 26 de agosto, de la Conselleria de Educación, Cultura y Deporte,
+por la que se regulan los programas formativos de cualificación básica en la Comunitat Valenciana.
+Segunda. Entrada en vigor
+Anexo I Currículo del módulo profesional Itinerario personal para la empleabilidad
+Anexo II La acción tutorial
+Anexo III-A. Secuenciación y carga horaria
+Anexo III-B. Organización del ámbito de Comunicación y Ciencias Sociales en materias
+PREÁMBULO
+El Estatuto de Autonomía de la Comunitat Valenciana, establece en su artículo 53 que es de competencia exclusiva
+de la Generalitat la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y
+especialidades, en el ámbito de sus competencias.  
+La Ley orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional tiene por objeto
+la constitución y ordenación de un sistema único e integrado de formación profesional.
+El Real decreto 278/2023, de 11 de abril, establece el calendario de implantación del Sistema de Formación
+Profesional establecido por la Ley orgánica 3/2022, de 31 de marzo. En su artículo 11, establece que en el año académico
+2024-2025 se completará la implantación del primer curso de todos los ciclos formativos, y en 2025-2026 la implantación
+de los segundos cursos.
+Núm. 10172 / 13.08.2025 2 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+El Real decreto 659/2023, de 18 de julio, que desarrolla la ordenación del Sistema de Formación Profesional y en
+su artículo 7.2, atribuye a la Administración Educativa la facultad para establecer los currículos de los grados básico,
+respetando en todo caso los elementos contemplados en el currículo básico.
+El Real decreto 498/2024, de 21 de mayo, modifica los reales decretos que establecen los títulos de Formación
+Profesional de grado básico y se fijan sus enseñanzas mínimas.
+Reconocemos los ciclos formativos de grado básico, con carácter general, aquellos vinculados a estándares de
+competencia de nivel 1 del Catálogo Nacional de Estándares de Competencias Profesionales.
+En la definición de los nuevos contenidos se han tenido en cuenta las características educativas, culturales y
+sociolingüísticas, socio-productivas y laborales, de la Comunitat Valenciana con el fin de dar respuesta a los objetivos de
+desarrollo sostenible (ODS) que derivan de la Agenda de la Unión Europea UE130, 17 objetivos, 169 metas, en especial el
+objetivo 4 de educación de calidad; el objetivo 8 trabajo decente y crecimiento económico ; el objetivo 10, reducción de
+desigualdades, como reto global y actuación autonómica; y el objetivo 12, producción y consumo responsables.
+En este sentido se redacta el presente decreto para ayudar a cubrir las necesidades generales de cualificación de las
+personas para su incorporación a la estructura productiva de la Comunitat Valenciana, sin perjuicio alguno a la movilidad
+del alumnado, introduciendo solo lo que es necesario para su aplicación eficaz, siguiendo el principio de proporcionalidad.
+El contenido de este decreto se ajusta a los principios de buena regulación contenidos en la Ley 39/2015, de 1 de
+octubre, del procedimiento administrativo común de las administraciones públicas, y en la Ley 40/2015, de 1 de octubre, de
+régimen jurídico del sector público, los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica,
+transparencia y eficiencia, en tanto que persigue el interés general al facilitar la adecuación de la oferta formativa a la nueva
+regulación estatal, ampliando la oferta de Formación Profesional y avanzando en la integración de la Formación
+Profesional en el conjunto del sistema educativo y formativo.
+Basándose en el principio de necesidad, el desarrollo curricular está plenamente justificado para regular estas
+nuevas enseñanzas de Formación Profesional vinculadas a los títulos mencionados en el ámbito de esta comunidad
+autónoma, ampliando y contextualizando los contenidos de los módulos profesionales, respetando el perfil profesional de
+los mismos.
+Resulta asimismo coherente con el ordenamiento jurídico permitiendo una gestión más eficiente de los recursos
+públicos, con la intención de mantener un marco normativo estable, predecible, integrado y claro, dando cumplimiento con
+ello al principio de seguridad jurídica.
+Se completa así eficaz y eficientemente, el marco legal establecido por los reales decretos por los que se establecen
+los mencionados títulos y se fijan los aspectos básicos del currículo, introduciendo la regulación adecuada e imprescindible,
+que establece las obligaciones necesarias a fin de atender el objetivo que se pretende conseguir, siguiendo el principio de
+proporcionalidad.
+En aplicación del principio de transparencia, se ha dado publicidad a la iniciativa normativa y a los documentos
+propios del proceso de elaboración, se ha sometido el expediente a información y audiencia pública, y se ha publicado el
+anuncio correspondiente en el Diari Oficial de la Generalitat Valenciana en cumplimiento del artículo 133 de la Ley
+39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+Se ha prestado especial atención a las áreas prioritarias, mediante la definición de contenidos de prevención de
+riesgos laborales, que permitan que todo el alumnado pueda obtener el certificado de técnico o técnica en Prevención de
+Riesgos Laborales, Nivel Básico, expedido de acuerdo con lo dispuesto en el Real decreto 39/1997, de 17 de enero, por el
+que se aprueba el Reglamento de los Servicios de Prevención. De igual forma y en el contexto de la Comunitat Valenciana,
+nuestra lengua oficial y propia, tal y como determina el artículo 6 del Estatuto de Autonomía, debe tener especial atención
+en las enseñanzas y el sistema de Formación Profesional valenciano.
+Las modificaciones introducidas en estos currículos requieren una posterior concreción en las programaciones que
+el equipo docente ha de elaborar, las cuales han de incorporar el diseño de actividades de aprendizaje con criterios
+pedagógicos que se desarrollarán y adaptarán a las características específicas del alumnado y del entorno socio-económico
+del centro educativo, adoptando preferentemente una organización del currículo por retos, proyectos de aprendizaje servicio
+y de aprendizaje colaborativo desde una perspectiva de enseñanza aplicada.
+Se fomentará el desarrollo de habilidades sociales y emocionales, el trabajo en equipo y la utilización de las
+tecnologías de la información y comunicación, así como, el respeto al medio natural.
+Al mismo tiempo, se han de incluir el desarrollo de actuaciones flexibles que, en el marco de la normativa que
+regula la organización de los centros, posibiliten adecuaciones particulares del currículo en cada centro docente de acuerdo
+con los recursos disponibles, sin que en ningún caso afecten a la competencia general de los títulos objeto de regulación.
+Núm. 10172 / 13.08.2025 3 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Estos ciclos tienen que incluir un proyecto anual de aprendizaje colaborativo vinculado a los tres ámbitos
+transversales y podrán además incluir complementos de formación que contribuyan al desarrollo de competencias de la
+Educación Secundaria Obligatoria.
+Se proporcionarán los apoyos necesarios para avanzar en la supresión de cualquier tipo de barrera de aprendizaje,
+de acceso a la información y a la comunicación, garantizando así la igualdad de oportunidades.
+La tutoría y la orientación profesional tendrán en estas enseñanzas una especial consideración, realizando un
+acompañamiento socioeducativo personalizado y una orientación profesional motivada y definida.
+En el ámbito profesional se incluirá la formación necesaria para obtener al menos un certificado profesional de
+Grado C vinculado a estándares de competencia de nivel 1 del Catálogo Nacional de Estándares de Competencias
+Profesionales.
+En cuanto a la evaluación, el equipo educativo tiene que perfilar líneas de trabajo (codocencia, aprendizaje
+colaborativo, etc.) con respecto al alumnado para que en la tutoría y junto al departamento de orientación se lleven a cabo.
+Respecto a la promoción y titulación del alumnado, en la evaluación final, se requerirá la evaluación positiva
+colegiada del equipo docente respecto a la adquisición de las competencias básicas y profesionales.
+La implantación de los currículos regulados por el presente decreto tendrá lugar a partir del curso 2024-2025 para
+los módulos de primer curso y a partir del 2025-2026 para los módulos de segundo curso.
+Por tanto, al amparo de lo previsto en el artículo 18.f) de la Ley 5/1983, de 30 de diciembre, del Consell, a
+propuesta del conseller de Educación, Cultura, Universidades y Empleo en uso de las  atribuciones conferidas por el
+Decreto 38/2025, de 4 de marzo, del Consell, de aprobación del Reglamento orgánico y funcional de la Conselleria de
+Educación, Cultura, Universidades y Empleo, oído el Consejo Valenciano de Formación Profesional, consultados los
+agentes sociales, con informe de la Abogacía General de la Generalitat, conforme con el Consell Jurídic Consultiu de la
+Comunitat Valenciana, y previa deliberación del Consell, en la reunión del día 5 de agosto de 2025,
+DECRETO
+Artículo 1. Objeto
+1. El presente decreto tiene por objeto establecer en una única norma los currículos de los ciclos formativos de
+grado básico de Formación Profesional en aplicación de la Ley orgánica 3/2022, de 31 de marzo (en adelante LFP), y
+determinar ciertos aspectos organizativos para la implantación del nuevo Sistema de Formación Profesional.
+2. Se incorporan como anexos el currículo del Módulo Profesional Itinerario Personal para la Empleabilidad, la
+acción tutorial, la secuenciación y carga horaria y la organización de los ámbitos de Comunicación y Ciencias Sociales en
+materias.
+Artículo 2. Ámbito de aplicación
+1. Los currículos establecidos en este decreto serán de aplicación a todos los ciclos formativos de grado básico
+cuyos currículos están relacionados en la disposición derogatoria única de este decreto, que se oferten en el ámbito de
+gestión de la Comunitat Valenciana, y que fueron implantados desde el curso 2024-2025 al amparo de la LFP,
+concretamente los que vienen regulados en:
+– Decreto 185/2014, de 31 de octubre, del Consell, por el que se establecen veinte currículos correspondientes a los
+ciclos formativos de Formación Profesional Básica en el ámbito de la Comunitat Valenciana
+– Decreto 23/2022, de 4 de marzo, del Consell, de establecimiento del currículum de los ciclos de formación
+profesional correspondientes a los títulos profesionales básicos en Actividades Marítimo-Pesqueras, Actividades de Horno
+y Pastelería, Actividades Domésticas y de Limpieza de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
+Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de Embarcaciones Deportivas y de Recreo
+– Decreto 67/2024, de 21 de junio, del Consell, por el que se establece el currículo del ciclo formativo de
+Formación Profesional Básica correspondiente al Título Profesional Básico en Acceso y Conservación en Instalaciones
+Deportivas en el ámbito de la Comunitat Valenciana
+2. Los centros docentes autorizados por la Administración Educativa para impartir los ciclos formativos objeto de
+este decreto aplicarán los currículos que en este se establecen, adaptando su programación y metodologías a las
+características de las personas en formación, integrando las posibilidades formativas de sus respectivos entornos
+productivos.
+Núm. 10172 / 13.08.2025 4 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Artículo 3. Currículo
+1. Los ciclos formativos impartidos en la Comunitat Valenciana tendrán los mismos datos de identificación del
+título y perfil profesional que los incluidos en los respectivos reales decretos de establecimiento del título.
+El perfil profesional del título viene expresado por la competencia general, las competencias profesionales y para la
+empleabilidad, las cualificaciones y los estándares de competencia del Catálogo Nacional de Estándares de Competencias 
+Profesionales y el entorno profesional, incluidos en los respectivos reales decretos de establecimiento del título.
+2. Los resultados de aprendizaje (en adelante RA) y los criterios de evaluación de los módulos profesionales serán
+los incluidos en los respectivos anexos de cada uno de los respectivos reales decretos, junto con las concreciones
+curriculares que figuran en el anexo I de este decreto.
+Se considerarán prescriptivos en el diseño de las programaciones didácticas y los procesos de evaluación del
+alumnado.
+3. Para los ámbitos de Comunicación y Ciencias Sociales, y de Ciencias Aplicadas, se estará a lo dispuesto en el
+artículo 17, punto 5 del Decreto 107/2022, de agosto del Consell, por el que se establece la ordenación y el currículo de la
+ESO en la Comunitat Valenciana y el anexo V del Real decreto 217/2022, de 29 de marzo, por el que se establece la
+ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria.
+4. Los resultados de aprendizaje y criterios de evaluación del Proyecto intermodular de aprendizaje colaborativo
+son los que figuran en el artículo 5 del presente decreto.
+5. Los contenidos que configuran los currículos de cada módulo profesional se regirán según lo dispuesto por el
+artículo 12.4 del Real decreto 659/2023, de 18 de julio.
+Corresponderá a los equipos educativos la adaptación de los contenidos para cada uno de los módulos
+profesionales y proyecto intermodular de aprendizaje colaborativo en las programaciones didácticas. 
+Las programaciones didácticas emitidas por el equipo docente han de incorporar el diseño de actividades de
+aprendizaje con criterios pedagógicos que se desarrollarán y adaptarán a las características específicas del alumnado,
+adoptando preferentemente una organización del currículo por retos, proyectos de aprendizaje servicio y de aprendizaje
+colaborativo.
+6. La duración total de los ciclos formativos será de 2.000 horas, salvo aquellos que se amplíen con los límites
+establecidos en el artículo 7.5 del Real decreto 659/2023, de 18 de julio. Esta ampliación podrá ser propuesta por los
+centros docentes y podrá ser impartida tanto en el centro como en la empresa, sin que afecte a las condiciones de titulación.
+7. Los módulos profesionales y ámbitos se organizarán en dos cursos académicos por norma general.
+8. La secuenciación, duración y distribución horaria de cada ciclo formativo está determinada en el anexo III-A de
+este decreto.
+Artículo 4. Estructura de los ciclos formativos. Ámbitos y módulos profesionales
+1. Los ciclos formativos de grado básico, conforme establece el art. 44 de la LFP y el art. 17 del Decreto 107/2022,
+de 5 de agosto constarán de tres ámbitos y el proyecto siguientes:
+a) Ámbito de Comunicación y Ciencias Sociales, que incluirá las siguientes materias:
+1.º Lengua castellana.
+2.º Lengua extranjera de iniciación profesional.
+3.º Ciencias sociales.
+4.º Valenciano.
+b) Ámbito de Ciencias Aplicadas, que incluirá las siguientes materias:
+1.º Matemáticas aplicadas.
+2.º Ciencias aplicadas.
+c) Ámbito Profesional, que incluirá al menos la formación necesaria para obtener un certificado profesional de
+Grado C vinculado a estándares de competencia de nivel 1 del Catálogo Na-cional de Estándares de Competencias
+Profesionales.
+d) Proyecto anual de aprendizaje colaborativo vinculado a los tres ámbitos anteriores.
+2. Podrán incluir, además, otros complementos de formación que contribuyan al desarrollo de las competencias de
+la ESO.
+3. En cualquier caso, cada ámbito se ha de programar de forma integrada y organizar en evaluación continua de
+forma que aglutine al conjunto de las materias que lo componen y deberá facilitar la adquisición de las competencias
+específicas de estas, así como las competencias clave incluidas en el perfil de salida del alumnado al final de la educación
+básica, tal y como establece el artículo 17 del Decreto 107/2022, de 5 de agosto.
+Núm. 10172 / 13.08.2025 5 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Artículo 5. Proyecto intermodular de aprendizaje colaborativo
+1. El Proyecto intermodular de aprendizaje colaborativo tendrá carácter integrador de las competencias adquiridas,
+estableciéndose su currículo básico en el anexo I del Real decreto 498/2024, de 21 de mayo.
+Se desarrollará durante todo el ciclo formativo y será evaluado en segundo curso.
+2. El Proyecto intermodular de aprendizaje colaborativo se basará en metodologías basada en retos. Cada equipo
+docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios RA contenidos en más
+de un módulo profesional del ciclo, incluyendo los correspondientes a los módulos asociados a las habilidades y
+capacidades transversales y a la orientación laboral y el emprendimiento. Además de la selección concreta realizada por el
+equipo docente según la especialidad del ciclo, se trabajarán transversalmente los RA que figuran en el currículo del
+proyecto.
+Existirá un seguimiento y tutorización individual y colectiva del proyecto, que se desarrollará de forma simultánea
+al resto de los módulos profesionales, correspondiendo la docencia al profesorado que imparte módulos profesionales.
+3. Los centros determinarán el momento en el que debe iniciarse el Proyecto intermodular de aprendizaje
+colaborativo, en función de las características del ciclo formativo.
+El desarrollo y seguimiento de este módulo deberá compaginar la tutoría individual y colectiva, y su evaluación,
+será de carácter integrador y complementario del resto de los módulos que componen el ciclo formativo.. Corresponderá a
+los equipos docentes la actualización de los contenidos en las programaciones didácticas.
+4. Los centros docentes, determinarán en la programación didáctica de cada módulo las especificaciones, trabajos a
+realizar, formato y evaluación del módulo de Proyecto intermodular de aprendizaje colaborativo, procesos que serán
+supervisados por los correspondientes departamentos de Familia Profesional para su posterior presentación al alumnado.
+5. Este módulo no se podrá dualizar, realizándose íntegramente en el centro educativo.
+Artículo 6. Docencia en inglés y las dos lenguas cooficiales
+1. Los ámbitos de Comunicación y Ciencias Sociales I y II podrán dividirse en materias de competencia lingüística
+en inglés y en valenciano. Si bien, han de generar un tratamiento integrado de las lenguas coherente para garantizar un
+mejor aprendizaje por parte del alumnado.
+En el anexo III-B del presente decreto se establece el cuadro horario.
+2. En todo caso, la programación de las materias así diseñadas se realizará de forma coordinada entre el
+profesorado que las imparten, manteniendo el principio globalizador de la metodología de estas enseñanzas, y deberán
+garantizar la adquisición del conjunto de RA de dichos ámbitos.
+3. Se garantizará el equilibrio entre las dos lenguas cooficiales en las horas lectivas destinadas a la impartición de
+los contenidos curriculares de estas materias.
+4. A fin de adecuar la lengua vehicular a la realidad del entorno, cada centro podrá establecer la lengua vehicular
+del ciclo, dentro de su autonomía y según las preferencias del alumnado durante la matriculación y la competencia
+lingüística del profesorado, siempre que haya una proporción de lenguas vehiculares que permita la consecución de los
+resultados de aprendizaje y la adquisición de terminología de la familia profesional en las dos lenguas cooficiales y en una
+lengua extranjera.
+ Artículo 7. Formación en empresa u organismo equiparado
+1. La formación en empresa u organismo equiparado (en adelante FE), carece de currículo propio y diferenciado;
+contribuye al desarrollo de parte de los RA de los módulos profesionales y de las competencias previstas del
+correspondiente currículo.
+2. La formación en empresa ha de contribuir de manera compartida junto con la formación en el centro docente al
+logro de las competencias generales, profesionales y para la empleabilidad de cada ciclo formativo, conforme dispone el
+art. 55 de la Ley orgánica 3/2022, de 31 de marzo sobre el carácter dual de la Formación Profesional y se desarrolla en el
+título IV del Real decreto 659/2023, de 18 de julio.
+3. Para iniciar la FE hay que cumplir simultáneamente con los siguientes requisitos, que estarán debidamente
+reflejados en el proyecto curricular de ciclo:
+– Tener cumplidos 16 años
+– Haber adquirido las competencias relativas a los riesgos específicos y las medidas de prevención de riesgos
+laborales en las actividades profesionales correspondientes al perfil profesional, según se requiera en la normativa vigente
+en materia de prevención de riesgos laborales, por lo que resulta obligatoria su ubicación temporal en el primer trimestre
+del primer curso.
+Núm. 10172 / 13.08.2025 6 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+– Estar en condiciones de cumplir con todos los compromisos establecidos en el artículo 153.3 del Real decreto
+659/2023, de 18 de julio.
+Para ello, antes de comenzar el periodo de FE, el equipo docente decidirá de forma colegiada qué personas están en
+condiciones de cumplir dichos compromisos, y cuáles no, en cuyo caso habrán de motivar las circunstancias que
+excepcionalmente impiden la FE de una determinada persona. La propuesta colegiada del equipo docente se elevará
+documentalmente a la jefatura de estudios para que adopte la decisión correspondiente.
+Se entenderá que no está en condiciones de cumplirlos si esos mismos compromisos no se han alcanzado en el
+centro docente, sin perjuicio de la obligación del alumnado de alcanzar las competencias mínimas necesarias para cursar
+parte de su formación en la empresa y poder superar los módulos formativos.
+4. Si la jefatura de estudios, a propuesta del equipo docente, adopta la decisión de que una persona no se incorpore
+al periodo de FE, esta continuará su formación en el centro educativo y será evaluado por el profesorado responsable de
+cada módulo.
+5. La FE se formalizará mediante acuerdos y convenios de colaboración suscritos por la Dirección o titularidad del
+centro docente y el representante legal de la empresa u organismo equiparado.
+En ningún caso la formación en empresa tendrá la consideración de prácticas ni supondrá la sustitución de las
+funciones que corresponden a un trabajador o trabajadora en la empresa.
+La relación entre alumnado y empresa u organismo equiparado se acogerá a lo dispuesto en la normativa vigente.
+6. La FE se puede desarrollar de una de estas dos formas:
+– Acumulada, cuando la formación se realice en un periodo de tiempo único durante el curso académico.
+– En alternancia, cuando la formación se realice en varios períodos alternos en la empresa y en el centro docente.
+7. La FE se realizará preferentemente en régimen general y tendrá una duración de como mínimo del 20% de la
+duración total del ciclo.
+Incluirá entre el 10% y el 20% de los RA, distribuidos entre todos los cursos que componen el ciclo formativo.
+8. Si la FE no se puede realizar durante el calendario ordinario escolar por motivos de excepcionalidad de
+producción, tejido empresarial y factor socioeconómico del entorno, se podrá proponer su realización en otras fechas,
+preferentemente dentro del mismo curso escolar, previa autorización de la Dirección Territorial.
+Artículo 8. Proyecto curricular de ciclo formativo
+1. Los centros docentes desarrollarán y completarán, en el marco de su autonomía, los currículos de los ciclos
+formativos que impartan mediante la elaboración de los proyectos curriculares.
+El proyecto curricular de ciclo formativo (en adelante PCCF) constituirá el marco de referencia para la
+planificación, desarrollo y evaluación del proceso de enseñanza y aprendizaje del ciclo, garantizando su adecuación a las
+características del alumnado, al contexto socioeconómico del entorno y a las necesidades del sector productivo
+correspondiente.
+2. Los centros educativos dispondrán de un plazo de dos años, contados a partir de la implantación del título en el
+centro, para la elaboración del proyecto curricular del ciclo formativo.
+3. Las programaciones didácticas de cada módulo profesional se elaborarán teniendo en cuenta el proyecto
+curricular, asegurando la coherencia pedagógica y metodológica en la impartición del ciclo.
+4. El proyecto curricular del ciclo formativo incluirá, al menos, los siguientes aspectos:
+– Identificación del ciclo formativo.
+– Marco normativo para el desarrollo del proyecto curricular.
+– Adecuación y arreglo de las competencias profesionales del título al contexto socioeconómico y cultural del
+centro.
+– Contribución de cada módulo a las competencias profesionales del ciclo.
+– Contribución de cada módulo a las competencias para la empleabilidad del ciclo.
+– Enfoques didácticos y metodológicos.
+– La organización y distribución de los módulos profesionales
+– Criterios de organización, comunicación y desarrollo de la evaluación del aprendizaje.
+– Base de datos de empresas u organismos equiparados para la formación en empresa, y criterios de asignación del
+alumnado.
+– Criterios para la realización de los planes formativos individuales.
+– El plan de tutoría y orientación profesional.
+– Concreción de los planes y programas del centro vinculados al currículo. 
+Núm. 10172 / 13.08.2025 7 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+– Orientaciones para el uso de espacios, medios y equipamientos disponibles.
+– Criterios y procedimientos para la evaluación y revisión de la práctica docente.
+– Atención a la Diversidad. 
+– Criterios para la planificación de actividades complementarias y extraescolares.
+– Criterios para la organización del módulo profesional de Proyecto intermodular de aprendizaje colaborativo.
+Artículo 9. Programación didáctica de módulo profesional
+1. La programación didáctica de los módulos profesionales, y en su caso las unidades de programación, se
+elaborará por el departamento correspondiente teniendo en cuenta el proyecto curricular.
+2. La programación didáctica de módulo profesional incluirá:
+– Datos identificativos, marco normativo y contextualización del módulo.
+– Relación entre los estándares de competencia y los módulos del ciclo formativo.
+– Contribución de los RA a las competencias generales.
+– Esquema general y secuenciación de las unidades de programación.
+– Metodología del proceso de enseñanza-aprendizaje.
+– Recursos.
+– Uso de espacios y equipamientos.
+– Medidas de atención a la diversidad.
+– Evaluación del aprendizaje.
+– Actividades complementarias y extraescolares.
+– Criterios y procedimientos para la evaluación del desarrollo de la programación y de la práctica docente, así
+como los criterios de calificación.
+– Cualquier otro apartado considerado relevante por el equipo educativo en el PCCF.
+Artículo 10. Autonomía de los centros. Tutoría y orientación profesional
+1, Los centros que impartan las enseñanzas reguladas en el presente decreto dispondrán de la necesaria autonomía
+pedagógica, de organización y de gestión económica para el desarrollo de las actividades formativas y su adaptación a las
+características concretas del entorno socioeconómico, cultural y profesional, con la supervisión de la Inspección de
+Educación.
+2. En el marco general del proyecto educativo, en función de las características de su entorno productivo y en uso
+de su autonomía pedagógica, los centros concretarán y desarrollarán las medidas organizativas y curriculares más
+adecuadas a las características de su alumnado y de su entorno productivo, de manera flexible mediante la elaboración de
+las programaciones didácticas de cada uno de sus módulos profesionales o ámbitos.
+El proyecto educativo que refleja de manera formal la autonomía pedagógica y de organización y gestión, tiene que
+definir de forma concreta los aspectos que garanticen que el proceso de enseñanza-aprendizaje del alumnado lleve a este al
+éxito académico y a su empleabilidad. Estos han de ser los dos objetivos clave de toda iniciativa autónoma del centro
+educativo en el ámbito de la Formación Profesional. 
+3. Se potenciará o creará la cultura de prevención de riesgos laborales en los espacios donde se impartan los
+diferentes módulos profesionales, así como una cultura de respeto ambiental, trabajo de calidad realizado conforme a las
+normas de calidad, creatividad, innovación, igualdad de género, respeto a la diversidad, promoción de la igualdad de
+oportunidades y el diseño para todas las personas y la accesibilidad universal.
+4. La conselleria con competencias en materia de Educación favorecerá la elaboración de proyectos de innovación,
+así como de modelos de programación docente y de materiales didácticos, que faciliten al profesorado el desarrollo del
+currículo, prestando especial atención al aprendizaje basado en retos, por lo que los ciclos formativos se impartirán con una
+metodología flexible, basada en el autoaprendizaje, adaptada a las capacidades y necesidades del alumnado.
+5. En cada uno de los cursos que componen el ciclo se dedicará 1 hora semanal de tutoría directa con el alumnado.
+El departamento de orientación elaborará con el equipo de tutores, un plan de acción tutorial que garantice
+aprendizaje, seguimiento, promoción e integración socio-laboral del alumnado, que serán estructurados preferentemente,
+según lo dispuesto en el anexo II del presente decreto.
+Artículo 11. Profesorado
+1. Las especialidades del profesorado con atribución docente en los módulos profesionales y Proyecto intermodular
+de aprendizaje colaborativo serán las indicadas en el Real decreto 127/2014, de 28 de febrero, por el que se regulan
+Núm. 10172 / 13.08.2025 8 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+aspectos específicos de la Formación Profesional Básica de las enseñanzas de formación profesional del sistema educativo,
+se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real decreto 1850/2009,
+de 4 de diciembre, sobre expedición de títulos académicos y profesionales, correspondientes a las enseñanzas establecidas
+en la Ley orgánica 2/2006, de 3 de mayo, de educación.
+2. El profesorado que imparta el ámbito de Comunicación y Ciencias Sociales deberá acreditar su competencia
+lingüística de acuerdo con lo establecido en la Orden 3/2020, de 6 de febrero, de la Conselleria de Educación, Cultura y
+Deporte, por la que se determina la competencia lingüística necesaria para el acceso y el ejercicio de la función docente en
+el sistema educativo valenciano o normativa que lo sustituya.
+3. Conforme al artículo 165.3 del Real decreto 659/2023, las titulaciones y requisitos para impartir docencia en
+centros de titularidad distinta a la Generalitat, o en puestos de interinidad, serán:
+– Los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes de la Ley orgánica
+2/2006, de 3 de mayo.
+– Titulación universitaria vinculada al ciclo que contenga un mínimo de un 30% de créditos ECTS vinculados al
+ciclo formativo que se imparta.
+– Titulación universitaria y tres años de actividad profesional en el sector vinculado a la familia profesional del
+ciclo formativo que se imparta.
+Las direcciones territoriales de Educación establecerán el procedimiento de verificación de la titulación del
+profesorado de centros de titularidad privada dentro del ámbito de sus competencias.
+4. En caso de contar con otros perfiles colaboradores, estos se adecuarán a los requisitos del capítulo IV del título
+V del Real decreto 659/2023, de 18 de julio.
+Artículo 12. Espacios y equipamiento
+Los espacios y equipamientos que deben reunir los centros de formación profesional para permitir el desarrollo de
+las actividades de enseñanza son los establecidos en los reales decretos que establecen los títulos de Formación Profesional,
+sin perjuicio del cumplimiento de cualesquiera otras normas vigentes en materia de espacios y equipamientos.
+DISPOSICIONES ADICIONALES
+Primera. Incidencia en las dotaciones de gasto
+La implementación y posterior desarrollo de este decreto deberá ser atendida con los medios personales y
+materiales de la conselleria competente en estas enseñanzas de Formación Profesional, en la cuantía que prevean los
+correspondientes presupuestos anuales.
+Segunda. Certificados profesionales
+En el ámbito profesional estos ciclos tienen que incluir los complementos de formación necesaria que garanticen la
+obtención como mínimo de un certificado profesional de Grado C vinculado a estándares de competencia de nivel 1 del
+Catálogo Nacional de Estándares de Competencias Profesionales.
+ DISPOSICIONES TRANSITORIAS
+Primera. Transición entre planes de estudio
+Para superar los módulos de primer curso de los ciclos LOE en extinción, se dispondrá hasta el curso 2024-2025.
+En caso de no superar los módulos pendientes, en el curso siguiente 2025-2026 continuará obligatoriamente sus estudios en
+el nuevo ciclo equivalente implantado.
+Para superar los módulos de segundo curso de los ciclos LOE en extinción se dispondrá hasta el curso 2025-2026.
+En caso de no superar los módulos pendientes, las personas que no hayan superado los módulos continuarán sus
+estudios en el nuevo ciclo equivalente implantado, sin perjuicio de las convalidaciones a que hubiera lugar por cambio de
+plan de estudios, en cuyo caso serán de aplicación las convalidaciones establecidas en el Capítulo VI del título II del Real
+decreto 659/2023, de 18 de julio y posterior norma básica de desarrollo.
+Núm. 10172 / 13.08.2025 9 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Segunda. Títulos en extinción
+En tanto sigan impartiéndose los títulos LOE en extinción, les continuará siendo de aplicación la normativa de
+establecimiento de los mismos y respectivos currículos, y resto de normativa en materia de ordenación académica aplicable.
+DISPOSICIÓN DEROGATORIA
+Primera. Derogación de títulos LOE y otras normas
+1. Quedan derogadas las siguientes disposiciones que establecen los correspondientes títulos en la Comunitat
+Valenciana:
+– Decreto 185/2014, de 31 de octubre, del Consell, por el que se establecen veinte currículos correspondientes a los
+ciclos formativos de Formación Profesional Básica en el ámbito de la Comunitat Valenciana).
+– Decreto 23/2022, de 4 de marzo, del Consell, de establecimiento del currículum de los ciclos de formación
+profesional correspondientes a los títulos profesionales básicos en Actividades Marítimo-Pesqueras, Actividades de Horno
+y Pastelería, Actividades Domésticas y de Limpieza de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
+Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de Embarcaciones Deportivas y de Recreo
+– Decreto 67/2024, de 21 de junio, del Consell, por el que se establece el currículo del ciclo formativo de
+Formación Profesional Básica correspondiente al Título Profesional Básico en Acceso y Conservación en Instalaciones
+Deportivas en el ámbito de la Comunitat Valenciana
+2. Otras normas
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente
+norma, sin perjuicio de lo establecido en las disposiciones transitorias de este decreto.
+DISPOSICIONES FINALES
+Primera. Modificación de la Orden 73/2014, de 26 de agosto, de la Conselleria de Educación, Cultura y Deporte,
+por la que se regulan los programas formativos de cualificación básica en la Comunitat Valenciana
+1.Se modifica el párrafo 1 del artículo 4 de la Orden 73/2014, de 26 de agosto, de la Conselleria de Educación,
+Cultura y Deporte, por la que se regulan los programas formativos de cualificación básica en la Comunitat Valenciana, que
+queda redactado como sigue:
+«Artículo 4. Destinatarios y condiciones de acceso
+1. Podrán acceder a estos programas jóvenes de 16 años o más cumplidos hasta el 31 de diciembre del año de
+inicio del programa que no hayan obtenido el título de Graduado en Educación Secundaria Obligatoria. No obstante, el
+alumnado con necesidades educativas especiales que haya obtenido el título de Graduado en Educación Secundaria
+Obligatoria podrá ser autorizado, por la unidad directiva con competencias en Formación Profesional para acceder a estos
+programas, cuando tras valoración de los departamentos con competencia en orientación educativa, se estime que no están
+en condiciones de obtener, al menos, un certificado profesional de entre los incluidos en los ciclos formativos de grado
+medio. El procedimiento específico para ello se regulará a través de las instrucciones correspondientes.»
+2. La modificación contenida en el apartado anterior conserva su rango de orden, lo cual supone que podrá ser
+modificada o derogada a través de una norma posterior de igual o superior rango.
+Segunda. Entrada en vigor
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Generalitat Valenciana.
+València, 5 de agosto de 2025
+Carlos Mazón Guixot
+President de la Generalitat
+José Antonio Rovira Jover
+Conseller de Educación, Cultura, Universidades y Empleo
+Núm. 10172 / 13.08.2025 10 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ANEXO I Currículo del módulo profesional Itinerario personal para la empleabilidad  
+Código:3159 
+Resultados de aprendizaje y criterios de evaluación: 
+RA1: Identifica los conceptos básicos sobre seguridad y salud en el trabajo en el sector productivo 
+asociado al perfil profesional. 
+a) Se ha valorado la relación entre trabajo y la salud con especial atención a los conceptos clave de 
+riesgo y daño derivado del trabajo. 
+b) Se ha reflexionado sobre los daños derivados del trabajo y sus diferentes formas: accidentes de 
+trabajo, enfermedades profesionales y otras patologías derivadas del trabajo.  
+c) Se determinado el marco normativo básico, así como los derechos y deberes en materia de 
+prevención de riesgos laborales.  
+ 
+RA2: Evalúa los riesgos derivados de su actividad, analizando las condiciones de trabajo y los factores 
+de riesgo presentes en su entorno laboral.   
+a) Se han clasificado los factores de riesgo en la actividad y los daños derivados de los mismos.  
+b) Se han identificado las situaciones de riesgo más habituales en los entornos de trabajo de la actividad 
+profesional relacionada con el título profesional básico.  
+c) Se ha valorado la importancia de la evaluación de riesgos en la empresa.  
+d) Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a accidentes 
+de trabajo y enfermedades profesionales, relacionados con el perfil profesional del título profesional 
+básico. 
+ 
+RA3. Aplica las medidas de prevención y protección, analizando las situaciones de riesgo en el entorno 
+laboral del título profesional básico.  
+a) Se han definido las técnicas de prevención y de protección individual y colectiva que deben 
+aplicarse para evitar los daños en su origen y minimizar sus consecuencias en caso de que sean 
+inevitables.  
+b) Se ha analizado el significado y alcance de los distintos tipos de señalización de seguridad.  
+c) Se han analizado los protocolos de actuación en caso de emergencia.  
+d) Se han identificado las técnicas básicas de primeros auxilios que han de ser aplicadas en el 
+lugar del accidente ante distintos tipos de daños y la composición y uso del botiquín.  
+ 
+RA4. Desarrolla actividades de autoconocimiento que le permiten orientarse a campos profesionales 
+motivadores en los que puede desplegar todas sus capacidades. 
+a) Se han evaluado los propios intereses, motivaciones, habilidades y destrezas en el marco de 
+un proceso de autoconocimiento. 
+b) Se han determinado las competencias personales y sociales con valor para el empleo.  
+c) Se ha valorado el concepto de autoestima en el proceso de búsqueda de empleo.  
+d) Se han identificado las fortalezas, debilidades, amenazas y oportunidades propias para la 
+inserción profesional, así́ como las estrategias para sacarles el mayor aprovechamiento. 
+e) Se han identificado expectativas de futuro para la inserción profesional analizando 
+competencias, intereses y destrezas personales. 
+ 
+Núm. 10172 / 13.08.2025 11 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+RA5. Desarrolla habilidades sociales concretas que se han demostrado como fundamentales a la hora 
+de encontrar un empleo y mantenerlo. 
+a) Se ha valorado la importancia de las competencias personales y sociales en la empleabilidad.  
+b) Se han aplicado estrategias para canalizar las emociones de manera asertiva en las relaciones 
+con otras personas, diferenciándolas de conductas agresivas y/o pasivas.  
+c) Se han puesto en práctica técnicas de presentación, orales y escritas, para una comunicación 
+efectiva y afectiva valorando su importancia como recurso personal para la empleabilidad.  
+d) Se han identificado los beneficios del trabajo en equipo, as í́ como las diferentes formas de 
+llevarlo a cabo. 
+e) Se ha reaccionado de forma flexible y positiva ante conflictos y situaciones nuevas, 
+aprovechando las oportunidades y gestionando las dificultades haciendo uso de estrategias 
+relacionadas con la inteligencia emocional. 
+RA6. Accede a la información de los posibles itinerarios académicos y/o profesionales que tiene a su 
+alcance a través de la investigación y la reflexión libre de estereotipos vocacionales.  
+a) Se ha determinado la realidad del entorno sociolaboral actual. 
+b) Se han identificado los itinerarios académicos y profesionales afines a sus intereses y se han 
+valorado las opciones que mejor se ajustan a sus perfiles profesionales y sus preferencias.  
+c) Se ha valorado la importancia de la formación permanente como factor clave para el empleo y 
+la adaptación al cambio. 
+ 
+RA7. Pone en marcha un itinerario propio analizando las distintas opciones educativas y profesionales, 
+valorando las ventajas e inconvenientes de cada una de ellas y examinando aquellas que mejor se 
+ajustan a sus posibilidades y preferencias. 
+a) Se han valorado las ventajas e inconvenientes de cada una de las opciones posibles.  
+b) Se han analizado y seleccionado las opciones que más se ajustan a sus perfiles profesionales. 
+c) Se ha realizado un proceso de toma de decisiones identificando el itinerario académico y 
+profesional personal, a partir de sus preferencias profesionales, intereses y metas en el marco de un 
+proyecto profesional. 
+RA8. Conoce las estrategias de acceso al mercado de trabajo por cuenta ajena y utiliza las herramientas 
+necesarias para el proceso de inserción laboral. 
+a) Se ha analizado la búsqueda de empleo como un proceso. 
+b) Se han identificado las diferentes fuentes de información de acceso al empleo.  
+c) Se han analizado las distintas técnicas utilizadas para la búsqueda de empleo por cuenta ajena. 
+d) Se han puesto en práctica las diferentes herramientas que permitan una búsqueda de empleo 
+óptima. 
+RA9. Conoce los derechos fundamentales y los derechos laborales vinculados a su sector profesional.  
+a) Se ha analizado el Estatuto de los trabajadores. 
+b) Se ha analizado los derechos fundamentales vinculados al trabajo, el derecho de sindicación y 
+huelga.  
+c) Se ha valorado la importancia de la negociación colectiva y el convenio colectivo.  
+d) Se han identificado los aspectos básicos de la jornada laboral y de la nómina.  
+ 
+ Contenidos 
+Núm. 10172 / 13.08.2025 12 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Contenidos mínimos niveles básico de PRL 
+I. Conceptos básicos sobre seguridad y salud en el trabajo.  
+El trabajo y la salud: los riesgos profesionales. Factores de riesgo.  
+Daños derivados del trabajo. Los accidentes de trabajo y las enfermedades profesionales. Otras 
+patologías derivadas del trabajo.  
+Marco normativo básico en materia de prevención de riesgos laborales. Derechos y deberes básicos 
+en esta materia.  
+II. Riesgos generales y su prevención.  
+Riesgos ligados a las condiciones de seguridad.  
+Riesgos ligados al medio-ambiente de trabajo.  
+La carga de trabajo, la fatiga y la insatisfacción laboral.  
+Sistemas elementales de control de riesgos. Protección colectiva e individual.  
+Planes de emergencia y evacuación.  
+El control de la salud de las y los trabajadores.  
+III. Riesgos específicos y su prevención en el sector correspondiente a la actividad de la empresa.  
+IV. Elementos básicos de gestión de la prevención de riesgos. 
+Organismos públicos relacionados con la seguridad y salud en el trabajo.  
+Organización del trabajo preventivo: «rutinas» básicas.  
+Documentación: recogida, elaboración y archivo.  
+V. Derecho del trabajo 
+Estatuto de los trabajadores. 
+Derechos fundamentales vinculados en el mundo del trabajo. 
+Derecho sindical y derecho de huelga. 
+Negociación colectiva y Convenio colectivo. 
+La jornada laboral y la nómina. 
+Primeros auxilios.  
+Habilidades sociales, personales y emocionales 
+I Habilidades de comunicación.  
+Escucha activa y empatía 
+La conducta agresiva, pasiva y asertiva. 
+Técnicas básicas de asertividad. 
+Comunicación adecuada en el entorno de trabajo. 
+Pasos a seguir en el manejo de peticiones, críticas y quejas. 
+Habilidades de comunicación en entornos virtuales  
+Técnicas básicas de comunicación oral y escrita 
+ 
+II Trabajo en equipo: colaboración, delegación y gestión del tiempo.  
+Núm. 10172 / 13.08.2025 13 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+III Resolución de problemas. 
+Proceso de solución de problemas interpersonales. La mediación 
+El autocontrol. El manejo del estrés: identificación de detonantes.  
+Estrategias de autocontrol en situaciones conflictivas. 
+ 
+Elaboración itinerario académico y profesional 
+Análisis de las actitudes, intereses y valores personales para optimizar el proceso de inserción laboral. 
+Análisis de las oportunidades del entorno profesional 
+Itinerario académico: opciones y requisitos. 
+Objetivo profesional: definición y estrategias para alcanzarlo. 
+Proceso de toma de decisiones. 
+Elaboración de un itinerario personal académico y profesional 
+ 
+Acceso mercado laboral. 
+Fuentes de información para el empleo. 
+Entidades vinculadas al mercado laboral. 
+El proceso de búsqueda de empleo 
+Técnicas y herramientas para la búsqueda de empleo 
+Trabajar en el sector público: acceso y requisitos 
+  
+Núm. 10172 / 13.08.2025 14 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ANEXO II La acción tutorial 
+ 
+Objetivos generales 
+La acción tutorial orientará el proceso educativo individual y colectivo de los alumnos y las alumnas y 
+contribuirá a la adquisición de competencias sociales y a desarrollar la autoestima de los alumnos y las 
+alumnas, así como a fomentar las habilidades y destrezas que les permitan programar y gestionar su 
+futuro educativo y profesional. 
+La acción tutorial contribuirá a: 
+– Generar ilusión por seguir aprendiendo (reconciliación con el trabajo académico).  
+– Mejorar la autoestima desde prácticas de escucha y trato personalizado  
+– Ayudar a descubrir las habilidades y capacidades personales mediante procesos de valoración de lo 
+que son capaces de hacer (autoconcepto positivo). 
+– Interiorizar un estilo democrático de relación y resolución de conflictos.  
+– Autogestionarse las adaptaciones a nuevas situaciones sociales desde el uso de la reflexión 
+consecuencial. 
+– Aprender a vivir el tiempo de ocio como momento de encuentro gratificante y no consumista.  
+– Vivir la reflexión grupal como dinámica de gestión democrática y pluralista.  
+– Encontrar en el grupo un espacio de debate constructivo y de autocontrol emocional y conductual.  
+– Saber tomar decisiones profesionales o laborales al término de un proceso de orientación  
+Objetivos específicos 
+ 
+3. Contenidos de la acción tutorial 
+Los contenidos que se proponen a modo de orientación favorecen mediante diversas dinámicas y 
+metodologías la consecución de los ciclos de Formación Profesional de Grado Básico.  
+Bloques de contenidos a desarrollar en las tutorías: 
+Bloque 1: Acogida y organización grupal 
+– Acogida: presentación del equipo docente y de los espacios de trabajo; conocimiento del nuevo grupo. 
+– Organización del trabajo escolar, grupal y personal. 
+– Planificación de las acciones educativas. 
+– Itinerario académico y/o profesional. 
+– Establecimiento de las normas básicas de funcionamiento y relación. 
+Bloque 2: Identidad y autonomía personal 
+– Autoconocimiento de capacidades específicas. 
+– Autoestima. 
+– Proyectos grupales y personales. 
+– Conocimiento y autovaloración de las destrezas motrices. 
+Bloque 3: Habilidades y hábitos de convivencia democrática. 
+– Valores e intereses grupales: áreas de debate y formación. 
+– Experiencias de ocio gratificante y constructivo. 
+– Estrategias para el desarrollo del pensamiento reflexivo. 
+– La resolución de conflictos. 
+– Valores sobre convivencia, salud, ocio. 
+– Celebraciones culturales y las propias de la convivencia grupal. 
+Núm. 10172 / 13.08.2025 15 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Bloque 4: La orientación personal y grupal 
+– Áreas de autoconocimiento, proceso de reflexión y toma de decisiones. 
+– Confrontación cognitiva y afectiva entre lo que sabe hacer y lo que desea conseguir.  
+– Toma de decisiones. 
+Bloque 5: La participación de los padres y las madres o responsables legales  
+– Reuniones de madres y padres: información, debate, orientación y evaluación del proceso educativo. 
+– Entrevistas de seguimiento y orientación. 
+4. Orientaciones metodológicas 
+Procede utilizar en las dinámicas de trabajo la expresión oral en sus diversas formas de comunicación 
+grupal. Por otra parte, el proceso general de las dinámicas tutoriales ha de tener una estructura 
+constante de análisis -observación o escucha, debate -coloquio, reflexión consecuencial y elaboración 
+de propuestas y de acuerdos. 
+5. Indicadores de evaluación 
+– Saber resolver conflictos mediante estrategias de diálogo y acuerdos.  
+– Responder positivamente a temas relacionados con su preparación profesional o estudios 
+posteriores. 
+– Mostrar satisfacción del ambiente grupal y del modo en que se han gestionado los temas de grupo.  
+– Valorar positivamente el trato y la atención recibida. 
+– Ser capaz de verbalizar aspectos positivos de sí mismo y de los demás.  
+– Reconocer los valores humanos de la convivencia democrática. 
+– Convivir y trabajar pacíficamente con personas de otras culturas. 
+– Saber debatir temas de acuerdo con normas de respeto y tolerancia. 
+– Formular decisiones personales siguiendo un proceso sencillo de 
+información y reflexión. 
+ORIENTACIONES METODOLÓGICAS 
+El proceso de enseñanza -aprendizaje se organizará de modo individualizado, atendiendo a las 
+necesidades específicas de cada alumno o alumna a partir de un plan personalizado de formación.  
+Por otro lado, y dada la naturaleza de los módulos profesionales del currículo de los ciclos de Formación 
+Profesional de Grado Básico, éstos deberán entenderse como áreas integradoras y necesariamente 
+interdisciplinares. Además, se buscará un tipo de propu esta que tenga en cuenta las aportaciones 
+audiovisuales e informáticas y el aprendizaje por descubrimiento, que favorezca las técnicas de trabajo 
+autónomo y en equipo, que desarrolle el pensamiento divergente y se complemente con estancias en 
+el laboratorio, visitas a museos, entrevistas, visitas a empresas, observaciones astronómicas, teatros, 
+talleres de creación, etc. 
+Los contenidos, pues, de los módulos profesionales tendrán un carácter globalizador para lo que se 
+estructurarán sus contenidos de modo progresivo: desde lo más instrumental y sencillo hacia lo más 
+técnico y complicado. 
+Los contenidos y actividades correspondientes a los módulos profesionales deben constituir, en la 
+medida de lo posible, el eje motivador en torno al cual se integren el resto de aprendizajes de carácter 
+formativo general. 
+Por otra parte, es fundamental proporcionar al alumnado los medios necesarios para que se 
+acostumbren a asumir actitudes críticas, creativas y solidarias, razón por la cual debe existir una 
+interacción permanente entre profesorado y alumnado y entre el pro pio alumnado, es decir, un trabajo 
+en equipo que se traduzca en debates, trabajos de investigación, interpretación de textos, elaboración 
+de artículos y/o entrevistas, etcétera. 
+De igual forma, es necesario que existan espacios apropiados (dentro y fuera del aula) que permitan y 
+fomenten las diferentes actividades, que posibiliten un tratamiento a la diversidad y en los que 
+encuentren fácilmente los materiales necesarios: biblioteca de aula y del centro, archivos, laboratorios, 
+Núm. 10172 / 13.08.2025 16 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+aula de informática..., al igual que otros adecuados para la lectura silenciosa, el trabajo en equipo, la 
+elaboración de materiales, etc. No obstante, los métodos pedagógicos se deben adaptar a las 
+características del propio alumnado, teniendo en cuenta co mo prioridad la capacidad del trabajo 
+autónomo del alumnado como medio de aprendizaje, promoviendo la creatividad y el dinamismo gracias 
+a la integración de elementos como Internet, la prensa, etc. 
+Resultará fundamental la atención a la diversidad, de forma individual o en grupo, ya que es necesario 
+dar respuesta a las necesidades educativas de todo el alumnado, entendiendo dicha atención a la 
+diversidad como una característica de la práctica docente  ordinaria, ofreciendo respuestas 
+diferenciadas en función de la diversidad del alumnado. Así pues, será de especial importancia, la forma 
+de enseñar y de organizar y distribuir el aula, así como la capacidad de ajustar la actuación del 
+profesorado a lo qu e son capaces de aprender sus alumnos y alumnas, sin renunciar a los objetivos 
+didácticos de la unidad trabajada. Para ello, el equipo docente propondrá actividades de aprendizaje 
+variadas, materiales didácticos diversos, así como distintas formas de agrup amiento del alumnado. 
+  
+Núm. 10172 / 13.08.2025 17 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ANEXO III-A. Secuenciación y carga horaria 
+Familia Código Módulo 
+hrs/ 
+sem 
+hrs/ 
+año 
+ACTIVIDADES FÍSICAS Y DEPORTIVAS   
+Acceso y conservación en instalaciones deportivas   
+1º 3003 Técnicas administrativas básicas 6 200 
+ 3004 Archivo y Comunicación 4 133 
+ 3005 Atención al cliente 2 67 
+ 3148 Acceso de usuarios y organización de la instalación 
+físico-deportiva 4 133 
+ 3161 Comunicación y Ciencias Sociales I 5 166 
+ 3163 Ciencias aplicadas I 5 166 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3149 Asistencia en la organización de espacios, actividades y 
+reparto de material en instalación fís-dep 6 200 
+ 3150 Reparación de averías y reposición de enseres 7 233 
+ 3151 Operaciones básicas de prevención en las instalaciones 
+deportivas 5 166 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 4 133 
+ 3164 Ciencias aplicadas II 4 133 
+ TU02CF Tutoría Segundo 1 34 
+ 3160A11 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 18 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ADMINISTRACIÓN Y GESTIÓN   
+Servicios administrativos   
+1º 3001 Tratamiento informático de datos 7 233 
+ 3003 Técnicas administrativas básicas 7 233 
+ 3005 Atención al cliente 2 67 
+ 3006 Preparación de pedidos y venta de productos 2 67 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 67 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3002 Aplicaciones Básicas de Ofimática 7 233 
+ 3004 Archivo y Comunicación 9 299 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160962 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 19 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+AGRARIA    
+Actividades agropecuarias   
+1º 3051 Operaciones auxiliares de preparación del terreno, 
+plantación y siembra de cultivos 3 100 
+ 3052 Operaciones auxiliares de obtención y recolección de 
+cultivos 10 332 
+ 3114 Operaciones básicas de manejo de producción ganadera 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3111 Envase y distribución de materias primas 
+agroalimentarias 3 100 
+ 3113 Operaciones auxiliares de cría y alimentación del ganado 8 267 
+ 3115 Operaciones auxiliares de mantenimiento e higiene en 
+instalaciones ganaderas 5 166 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160966 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 20 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Agro-jardinería y composiciones florales   
+1º 3050 Actividades de riego, abonado y tratamientos en cultivos 4 133 
+ 3051 Operaciones auxiliares de preparación del terreno, 
+plantación y siembra de cultivos 3 100 
+ 3053 Operaciones básicas de producción y mantenimiento de 
+plantas en viveros y centros de jardinería 4 133 
+ 3054 Operaciones auxiliares en la elaboración de 
+composiciones con flores y plantas 7 233 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3055 Operaciones básicas en instalaciones de jardines, 
+parques y zonas verdes 5 166 
+ 3056 Operaciones básicas para el mantenimiento de jardines, 
+parques y zonas verdes 3 100 
+ 3057 Materiales de floristería 8 266 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160953 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 21 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Aprovechamientos forestales   
+1º 3053 Operaciones básicas de producción y mantenimiento de 
+plantas en viveros y centros de jardinería 5 166 
+ 3119 Trabajos de aprovechamientos forestales 8 266 
+ 3121 Recolección de productos forestales 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3056 Operaciones básicas para el mantenimiento de jardines, 
+parques y zonas verdes 4 133 
+ 3118 Repoblación e infraestructuras forestales 4 133 
+ 3120 Silvicultura y plagas 8 266 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160969 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 22 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ARTES GRÁFICAS   
+Artes gráficas     
+1º 3123 Informática básica aplicada en industrias gráficas 3 100 
+ 3124 Trabajos de reprografía 8 266 
+ 3125 Acabados de reprografía y finalización de productos 
+gráficos 7 233 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3005 Atención al cliente 3 100 
+ 3126 Operaciones de almacén en industrias gráficas 3 100 
+ 3127 Operaciones de producción gráfica 6 200 
+ 3128 Manipulados en industrias gráficas 4 133 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160970 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 23 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+COMERCIO Y MARKETING   
+Servicios comerciales   
+1º 3001 Tratamiento informático de datos 7 233 
+ 3005 Atención al cliente 2 67 
+ 3069 Técnicas básicas de merchandising 9 299 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3002 Aplicaciones Básicas de Ofimática 6 200 
+ 3006 Preparación de pedidos y venta de productos 3 100 
+ 3070 Operaciones auxiliares de almacenaje 7 233 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160963 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 24 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+EDIFICACIÓN Y OBRA CIVIL   
+Reforma y mantenimiento de edificios   
+1º 3082 Albañilería básica 9 299 
+ 3086 Reformas y mantenimiento básico de edificios 5 166 
+ 3087 Trabajos de pavimentación exterior y de urbanización 4 133 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3083 Guarnecidos y enlucidos 4 133 
+ 3084 Falsos techos 5 166 
+ 3085 Pintura y empapelado 7 233 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160961 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 25 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ELECTRICIDAD Y ELECTRÓNICA   
+Electricidad y electrónica   
+1º 3013 Instalaciones eléctricas y domóticas 7 233 
+ 3015 Equipos eléctricos y electrónicos 11 366 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3014 Instalaciones de telecomunicaciones 8 266 
+ 3016 Instalación y mantenimiento de redes para transmisión 
+de datos 8 266 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160956 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 26 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Instalaciones electrotécnicas y mecánica   
+1º 3014 Instalaciones de telecomunicaciones 8 266 
+ 3021 Soldadura y carpintería metálica 5 166 
+ 3022 Carpintería de aluminio y PVC 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3013 Instalaciones eléctricas y domóticas 7 233 
+ 3020 Operaciones básicas de fabricación 9 299 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160991 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 27 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+FABRICACIÓN MECÁNICA   
+Fabricación de elementos metálicos   
+1º 3020 Operaciones básicas de fabricación 8 266 
+ 3021 Soldadura y carpintería metálica 5 166 
+ 3022 Carpintería de aluminio y PVC 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3015 Equipos eléctricos y electrónicos 10 333 
+ 3073 Operaciones básicas de calderería ligera 6 200 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160992 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 28 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Fabricación y montaje   
+1º 3020 Operaciones básicas de fabricación 8 266 
+ 3021 Soldadura y carpintería metálica 5 166 
+ 3022 Carpintería de aluminio y PVC 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3023 Redes de evacuación 8 266 
+ 3024 Fontanería y calefacción básica 4 133 
+ 3025 Montaje de equipos de climatización 4 133 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160957 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 29 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+HOSTELERÍA Y TURISMO   
+Actividades de panadería y pastelería   
+1º 3005 Atención al cliente 2 67 
+ 3017 Procesos básicos de pastelería 12 399 
+ 3133 Operaciones auxiliares en la industria alimentaria 4 133 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3007 Procesos básicos de panadería 9 299 
+ 3026 Dispensación en panadería y pastelería 7 233 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160993 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 30 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Alojamiento y lavandería   
+1º 3077 Materiales y productos textiles 3 100 
+ 3093 Lavado y secado de ropa 5 166 
+ 3094 Planchado y embolsado de ropa 4 133 
+ 3130 Puesta a punto de habitaciones y zonas comunes en 
+alojamiento 6 200 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3005 Atención al cliente 3 100 
+ 3039 Preparación y montaje de materiales para colectividades 
+y catering 4 133 
+ 3131 Lavandería y mantenimiento de lencería en el 
+alojamiento 9 299 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160968 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 31 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Cocina y restauración   
+1º 3005 Atención al cliente 3 100 
+ 3034 Técnicas elementales de preelaboración 4 133 
+ 3035 Procesos básicos de producción culinaria 8 266 
+ 3036 Aprovisionamiento y conservación de materias primas e 
+higiene en la manipulación 3 100 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3037 Técnicas elementales de servicio 5 166 
+ 3038 Procesos básicos de preparación de alimentos y bebidas 6 201 
+ 3039 Preparación y montaje de materiales para colectividades 
+y catering 5 166 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160955 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 32 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+IMAGEN PERSONAL   
+Peluquería y estética   
+1º 3005 Atención al cliente 3 100 
+ 3060 Preparación del entorno profesional 4 133 
+ 3064 Lavado y cambios de forma del cabello 6 200 
+ 3065 Cambio de color del cabello 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3061 Cuidados estéticos básicos de uñas 5 166 
+ 3062 Depilación mecánica y decoloración del vello superfluo 5 166 
+ 3063 Maquillaje 6 201 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160960 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 33 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+INDUSTRIAS ALIMENTARIAS   
+Industrias alimentarias   
+1º 3070 Operaciones auxiliares de almacenaje 6 200 
+ 3133 Operaciones auxiliares en la industria alimentaria 6 200 
+ 3134 Elaboración de productos alimentarios 6 200 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 67 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3135 Limpieza y mantenimiento de instalaciones y equipos 9 299 
+ 3136 Operaciones básicas de laboratorio 7 233 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160971 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 34 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+INFORMÁTICA Y COMUNICACIONES   
+Informática de oficina   
+1º 3029 Montaje y mantenimiento de sistemas y componentes 
+informáticos 9 299 
+ 3031 Ofimática y archivo de documentos 9 299 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3016 Instalación y mantenimiento de redes para transmisión 
+de datos 10 332 
+ 3030 Operaciones auxiliares para la configuración y la 
+explotación 6 200 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160972 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 35 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Informática y comunicaciones   
+1º 3015 Equipos eléctricos y electrónicos 11 366 
+ 3029 Montaje y mantenimiento de sistemas y componentes 
+informáticos 7 233 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3016 Instalación y mantenimiento de redes para transmisión 
+de datos 8 266 
+ 3030 Operaciones auxiliares para la configuración y la 
+explotación 8 266 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160958 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 36 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+INSTALACIÓN Y MANTENIMIENTO   
+Mantenimiento de viviendas   
+1º 3024 Fontanería y calefacción básica 5 166 
+ 3025 Montaje de equipos de climatización 4 133 
+ 3090 Operaciones de conservación en la vivienda y montaje 
+de accesorios 9 299 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 69 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3023 Redes de evacuación 9 299 
+ 3088 Mantenimiento básico de instalaciones electrotécnicas en 
+viviendas 7 233 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160994 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 37 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+MADERA, MUEBLE Y CORCHO   
+Carpintería y mueble   
+1º 3005 Atención al cliente 2 67 
+ 3075 Instalación de elementos de carpintería y mueble 7 233 
+ 3078 Tapizado de muebles 9 299 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3074 Operaciones básicas de mecanizado de madera y 
+derivados 6 200 
+ 3076 Acabados básicos de la madera 8 266 
+ 3077 Materiales y productos textiles 2 67 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160048 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 38 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+MARÍTIMO PESQUERA   
+Actividades marítimo-pesqueras   
+1º 3140 Mantenimiento de equipos auxiliares en barcos de pesca 8 266 
+ 3142 Mantenimiento de motores en barcos de pesca 7 233 
+ 3143 Seguridad y primeros auxilios en barcos de pesca 3 100 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3138 Actividades en cubiertas de barcos de pesca 4 133 
+ 3139 Pesca con palangre, arrastre y cerco 6 200 
+ 3141 Pesca con artes de enmalle y marisqueo 6 200 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160967 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 39 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD   
+Actividades domésticas y limpieza de edificios   
+1º 3098 Mantenimiento de prendas de vestir y ropa de hogar 7 233 
+ 3102 Cocina Doméstica 6 200 
+ 3104 Limpieza de domicilios particulares, edificios, oficinas y 
+locales 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3116 Limpieza con máquinas 5 166 
+ 3145 Actividades de apoyo a personas no dependientes en la 
+unidad convivencial 5 166 
+ 3146 Seguridad en el ámbito doméstico 6 200 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160995 Proyecto intermodular de aprendizaje colaborativo 2 68 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 40 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+TEXTIL, CONFECCIÓN Y PIEL   
+Arreglo y reparación de artículos textiles y de piel   
+1º 3005 Atención al cliente 2 67 
+ 3095 Arreglos y adaptaciones en prendas de vestir y ropa de 
+hogar 9 299 
+ 3101 Confección de artículos textiles para decoración 7 233 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3077 Materiales y productos textiles 3 100 
+ 3091 Reparación de artículos de marroquinería y creación de 
+pequeños artículos de guarnicionería 3 100 
+ 3092 Reparación de calzado y actividades complementarias 10 332 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160954 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 41 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Tapicería y cortinaje   
+1º 3077 Materiales y productos textiles 3 100 
+ 3100 Confección y montaje de cortinas y estores 8 266 
+ 3101 Confección de artículos textiles para decoración 7 233 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3005 Atención al cliente 3 100 
+ 3078 Tapizado de muebles 9 299 
+ 3099 Tapizado de murales y entelado de superficies 4 133 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160964 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 42 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS   
+Mantenimiento de embarcaciones deportivas y de recreo   
+1º 3043 Mecanización y soldadura 6 200 
+ 3048 Mantenimiento básico de planta propulsora y equipos 
+asociados 6 200 
+ 3066 Mantenimiento básico de sistemas eléctricos e 
+informáticos 3 100 
+ 3068 Mantenimiento básico de aparejos de embarcaciones 
+deportivas 3 100 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 67 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3028 Reparación estructural básica de embarcaciones 
+deportivas 9 299 
+ 3040 Protección y embellecimiento de superficies de 
+embarcaciones 7 233 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 35 
+ 3160996 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+  
+Núm. 10172 / 13.08.2025 43 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+Mantenimiento de vehículos   
+1º 3043 Mecanización y soldadura 6 200 
+ 3044 Amovibles 7 233 
+ 3045 Preparación de superficies 5 166 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3046 Electricidad del vehículo 6 200 
+ 3047 Mecánica del vehículo 10 333 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160959 Proyecto intermodular de aprendizaje colaborativo 2 67 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+     
+  
+Núm. 10172 / 13.08.2025 44 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+VIDRIO Y CERÁMICA   
+Vidriería y alfarería   
+1º 3005 Atención al cliente 3 100 
+ 3105 Reproducción de moldes 4 133 
+ 3106 Conformado de piezas cerámicas 5 166 
+ 3107 Acabado de productos cerámicos 6 200 
+ 3161 Comunicación y Ciencias Sociales I 4 133 
+ 3163 Ciencias aplicadas I 4 133 
+ TU01CF Tutoría Primero 2 68 
+ 3159p Itinerario personal para la empleabilidad 1º 2 67 
+Total 1º     30 1.000 
+2º 3108 Mecanizados manuales y aplicaciones superficiales 5 166 
+ 3109 Termoformado, fusing y vidrieras 5 166 
+ 3110 Mecanizados manuales y semiautomáticos con vidrio 
+fundido y tubos de vidrio 6 200 
+ 3159 Itinerario personal para la empleabilidad 1 34 
+ 3162 Comunicación y Ciencias Sociales II 5 166 
+ 3164 Ciencias aplicadas II 5 166 
+ TU02CF Tutoría Segundo 1 34 
+ 3160965 Proyecto intermodular de aprendizaje colaborativo 2 68 
+Total 2º     30 1.000 
+Total ciclo  60 2.000 
+ 
+ 
+  
+Núm. 10172 / 13.08.2025 45 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ANEXO III-B. Organización del ámbito de Comunicación y Ciencias Sociales en materias  
+FAMILIA: ACTIVIDADES FÍSICAS Y DEPORTIVAS 
+Acceso y conservación en instalaciones deportivas 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 2 67 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 1 34 
+Valenciano II 1 33 
+ 
+FAMILIA: ADMINISTRACIÓN Y GESTIÓN 
+Servicios administrativos 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 46 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: AGRARIA 
+Actividades agropecuarias 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: AGRARIA 
+Agro-jardinería y composiciones florales 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 47 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: AGRARIA 
+Aprovechamientos forestales 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: ARTES GRÁFICAS 
+Artes gráficas 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 48 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: COMERCIO Y MARKETING 
+Servicios comerciales 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: EDIFICACIÓN Y OBRA CIVIL 
+Reforma y mantenimiento de edificios 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 49 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: ELECTRICIDAD Y ELECTRÓNICA 
+Electricidad y electrónica 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: ELECTRICIDAD Y ELECTRÓNICA 
+Instalaciones electrotécnicas y mecánica 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 50 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: FABRICACIÓN MECÁNICA 
+Fabricación de elementos metálicos 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: FABRICACIÓN MECÁNICA 
+Fabricación y montaje 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 51 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: HOSTELERÍA Y TURISMO 
+Actividades de panadería y pastelería 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: HOSTELERÍA Y TURISMO 
+Alojamiento y lavandería 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 52 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: HOSTELERÍA Y TURISMO 
+Cocina y restauración 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: IMAGEN PERSONAL 
+Peluquería y estética 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 53 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: INDUSTRIAS ALIMENTARIAS 
+Industrias alimentarias 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: INFORMÁTICA Y COMUNICACIONES 
+Informática de oficina 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 54 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: INFORMÁTICA Y COMUNICACIONES 
+Informática y comunicaciones 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: INSTALACIÓN Y MANTENIMIENTO 
+Mantenimiento de viviendas 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+  
+Núm. 10172 / 13.08.2025 55 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: MADERA, MUEBLE Y CORCHO 
+Carpintería y mueble 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: MARÍTIMO PESQUERA 
+Actividades marítimo-pesqueras 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+  
+Núm. 10172 / 13.08.2025 56 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD 
+Actividades domésticas y limpieza de edificios 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: CONFECCIÓN Y PIEL 
+Arreglo y reparación de artículos textiles y de piel 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+  
+Núm. 10172 / 13.08.2025 57 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: CONFECCIÓN Y PIEL 
+Tapicería y cortinaje 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS 
+Mantenimiento de embarcaciones deportivas y de recreo 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+  
+Núm. 10172 / 13.08.2025 58 / 58
+CVE: DOGV-C-2025-32763 https://dogv.gva.es/
+ 
+FAMILIA: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS 
+Mantenimiento de vehículos 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+FAMILIA: VIDRIO Y CERÁMICA 
+Vidriería y alfarería 
+Ámbito Materia Hrs/sem Hrs/año 
+Comunicación y Ciencias 
+Sociales I 
+Lengua castellana I 1 33 
+Lengua extranjera de iniciación profesional I 1 33 
+Ciencias Sociales I 1 34 
+Valenciano I 1 33 
+Comunicación y Ciencias 
+Sociales II 
+Lengua castellana II 1 33 
+Lengua extranjera de iniciación profesional II 1 33 
+Ciencias Sociales II 2 67 
+Valenciano II 1 33 
+ 
+ 
